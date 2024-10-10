@@ -17,10 +17,3 @@ int main() {
 
     return 0;
 }
-
-
-
-/*
-    cin.clear();
-    cin.ignore(256, '\n');
-*/
